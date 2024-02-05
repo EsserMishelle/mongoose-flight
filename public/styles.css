@@ -1,0 +1,19 @@
+.airline {
+width: 20px;
+}
+
+.depart_airport {
+    width: 15px;
+}
+
+.depart_dateTime {
+    width: 70px;
+}
+
+.arrive_airport {
+    width: 15px;
+}
+
+.arrive_dateTime {
+    width: 70px;
+}
